@@ -1,0 +1,74 @@
+
+::-webkit-scrollbar{
+    width: 4px;
+    color:#bc3908;
+}
+::-webkit-scrollbar-thumb {
+    background: #bc3908; 
+    border-radius: 4px;
+    width: 4px;
+  }
+  #breaker{
+      background-color: #bc3908;
+  }
+  .color{
+      color: #bc3908;
+  }
+  #about-content a{
+      color:#bc3908 ;
+  }
+  .cv a button{
+      background: #bc3908;
+  }
+  .service-img img{
+    background: #bc3908;
+    box-shadow:0px 0px 0px 0px #bc3908 ;
+  }
+  .service:hover .service-img img{
+    box-shadow:0px 0px 0px 400px #bc3908 ;
+}
+.game-progress{
+    background: #bc3908;
+}
+.perfect-progress{
+    background: #bc3908;
+}
+.pro-progress{
+    background: #bc3908;
+}
+.test-progress{
+    background: #bc3908;
+}
+.fun-progress{
+    background: #bc3908;
+}
+.ser-progress{
+    background: #bc3908;
+}
+.setup-text h2{
+    color: #bc3908;
+}
+.setup-text button{
+    color: #bc3908;
+    border: 1.5px solid #bc3908;
+}
+.setup-text button::before{
+    background: #bc3908;
+}
+.setup-image img::before{
+    background: #bc3908;
+}
+.clip-date{
+    background: #bc3908;
+}
+.clip-text a{
+    color: #bc3908;
+}
+form button{
+    background: #bc3908;
+}
+@media all and (max-width: 550px) and (min-width: 5px){
+    .service:hover .service-img img{
+        box-shadow:0px 0px 0px 0px #c70039 ;
+    }
+}
